@@ -24,7 +24,7 @@ textline: |
 hero_button:
   text: Fotografias
   href: "/about"
-show_news: false
+show_news: true
 show_staff: false
 menu:
   navigation:
