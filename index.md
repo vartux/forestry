@@ -14,8 +14,8 @@ services:
   icon: "/uploads/2018/12/07/compass.jpg"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+  heading: Retratos
+  icon: "/uploads/2017/11/14/william-stitt-162611.jpg"
 sub_heading: Engineering and Health Sciences
 textline: |
   Belkirk College of Engineering
