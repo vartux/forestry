@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/02/17/bridge.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Belkirk Collegeeee
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
