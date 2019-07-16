@@ -10,8 +10,8 @@ partners:
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+  heading: Marca Personal
+  icon: "/uploads/2018/12/07/compass.jpg"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
